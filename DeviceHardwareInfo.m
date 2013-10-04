@@ -21,8 +21,8 @@
     return deviceModelName;
 }
  
-+ (NSString *) deviceModelString{
-    
++ (NSString *) deviceModelString
+{
     return [DeviceHardwareInfo commonNameDictionary][[DeviceHardwareInfo deviceModel]];
 }
  
