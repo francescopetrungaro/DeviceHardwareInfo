@@ -1,6 +1,6 @@
 DeviceHardwareInfo
 ==================
-Common method to retrieve the iOS device being used. (Updated for iPhone 5c and iPhone 5s)
+Common method to retrieve the iOS device being used. (Updated for iPhone 6/ 6 Plus and iPad Air 2)
 
 
 HowToUseIt
