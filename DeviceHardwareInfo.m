@@ -45,6 +45,8 @@
              @"iPhone5,4":    @"iPhone 5c(GSM+CDMA)",
              @"iPhone6,1":    @"iPhone 5s(GSM)",
              @"iPhone6,2":    @"iPhone 5s(GSM+CDMA)",
+             @"iPhone7,2":    @"iPhone 6",
+             @"iPhone7,1":    @"iPhone 6 Plus",
              
              @"iPad1,1":  @"iPad",
              @"iPad2,1":  @"iPad 2(WiFi)",
@@ -60,6 +62,11 @@
              @"iPad3,4":  @"iPad 4(WiFi)",
              @"iPad3,5":  @"iPad 4(GSM)",
              @"iPad3,6":  @"iPad 4(GSM+CDMA)",
+             @"iPad4,1":  @"iPad Air(WiFi)",
+             @"iPad4,2":  @"iPad Air(WiFi + Cellular)",
+             @"iPad4,3":  @"iPad Air(WiFi + Cellular CN)",
+             @"iPad5,3":  @"iPad Air 2(WiFi)",
+             @"iPad5,4":  @"iPad Air 2(WiFi + Cellular)",
              
              @"iPod1,1":  @"iPod 1st Gen",
              @"iPod2,1":  @"iPod 2nd Gen",
